@@ -1,5 +1,11 @@
 package ru.tbank.education.school.lesson1
 
 fun main() {
-    println("when are we going to eat pizza?")
+    val a = 111
+    println("a = $a")
+    var b = 1
+    b += 1
+    println(b)
+    val n: String? = null
+    println(n)
 }
