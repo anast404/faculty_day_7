@@ -2,12 +2,4 @@ spring:
   application:
     name: demo
 
-book-service:
-  max-books: 5
-  forbidden-titles:
-    - "Запрещённая книга"
-    - "Нельзя"
-  allowed-genres:
-    - "Fiction"
-    - "Science"
-    - "History"
+
