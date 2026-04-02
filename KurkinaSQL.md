@@ -1,5 +1,5 @@
 # Задача 74
-select id, if (has_internet=1, "YES","NO") as has_internet from Rooms
+select id, if (has_internet=1, "YES", "NO") as has_internet from Rooms
 # Задача 56
 delete from Trip where town_from="Moscow"
 # Задача 114
